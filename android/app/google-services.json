@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "42239832712",
+    "project_id": "visit-mongolia",
+    "storage_bucket": "visit-mongolia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42239832712:android:035707127e2ff46a1ce53d",
+        "android_client_info": {
+          "package_name": "com.example.visit_mongolia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42239832712-8rma70tph8u0fbjlkv4dlt3juel2tnv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visit_mongolia",
+            "certificate_hash": "c3bd8ced9d8e2e05c6f4cc733405a5ce536a4196"
+          }
+        },
+        {
+          "client_id": "42239832712-2sc6bkjb171e7ccgr7ab9p4vih35khkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30T67gPNWvSbmWYd0-UmIyoknjUNL7Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42239832712-2sc6bkjb171e7ccgr7ab9p4vih35khkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42239832712-9ec03kcn59sj9kf50a7pc28jc4719op7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.visitMongolia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

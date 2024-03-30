@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>42239832712-9ec03kcn59sj9kf50a7pc28jc4719op7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.42239832712-9ec03kcn59sj9kf50a7pc28jc4719op7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOn_Jh2ea7MF6isjig1Cgx14sx2TVS6G4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>42239832712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.visitMongolia</string>
+	<key>PROJECT_ID</key>
+	<string>visit-mongolia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>visit-mongolia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:42239832712:ios:32ade4fab1079bbc1ce53d</string>
+</dict>
+</plist>
